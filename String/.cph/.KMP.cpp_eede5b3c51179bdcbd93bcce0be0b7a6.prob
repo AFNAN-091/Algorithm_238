@@ -1,0 +1,1 @@
+{"name":"Local: KMP","url":"d:\\2nd_1st_semester\\Algorithm\\String\\KMP.cpp","tests":[{"id":1658354007405,"input":"AAAAAAAAAAAAAAAAAB\nAAAAB","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\2nd_1st_semester\\Algorithm\\String\\KMP.cpp","group":"local","local":true}
